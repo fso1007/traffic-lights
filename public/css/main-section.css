@@ -1,0 +1,19 @@
+.tlights {
+  margin-top: 1em; }
+  .tlights__container {
+    display: flex;
+    justify-content: center; }
+  .tlights__img {
+    width: 360px; }
+  .tlights__button {
+    width: 80px;
+    padding: .2em;
+    margin: .2em;
+    font-size: .8em;
+    font-weight: 700;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif; }
+    .tlights__button__container {
+      display: flex;
+      justify-content: center;
+      margin-top: 2em; }
