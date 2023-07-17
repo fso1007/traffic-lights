@@ -56,9 +56,3 @@ redBtn.addEventListener('click', turnRed);
 yellowBtn.addEventListener('click', turnYellow);
 greenBtn.addEventListener('click', turnGreen);
 autoBtn.addEventListener('click', autoChange);
-
-
-// DUVIDAS
-
-// O codigo ficou muito grande pra executar algo simples?
-// É uma pratica ruim colocar varias ações dentro de uma função? ex: clearInterval, enableAutoBt dentro de turnRed
