@@ -1,20 +1,21 @@
 .tlights {
-  margin-top: 1em;
-
+  margin-top: 40px;
+  
   &__container {
     display: flex;
     justify-content: center;
   }
 
   &__img {
-    width: 360px;
+    width: 95%;
+    max-width: 400px;
   }
 
   &__button {
     width: 80px;
-    padding: .2em;
-    margin: .2em;
-    font-size: .8em;
+    padding: 8px;
+    margin: 4px;
+    font-size: .8rem;
     font-weight: 700;
     font-variant: small-caps;
     font-family: Arial, Helvetica, sans-serif;
@@ -22,9 +23,7 @@
     &__container {
       display: flex;
       justify-content: center;
-      
-      margin-top: 2em;
+      margin-top: 50px;
     }
-
   }
 }
